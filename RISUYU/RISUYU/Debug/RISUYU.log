@@ -1,0 +1,73 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: M_PI: изменение макроопределения
+C:\Users\annat\OneDrive\Рабочий стол\SDL2-2.0.9\include\SDL_stdinc.h(499): message : см. предыдущее определение "M_PI"
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(15,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(16,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(17,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(255,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(255,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(255,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(255,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(266,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(267,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(268,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(269,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(270,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(271,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(272,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(273,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(447,3): warning C4091: typedef : пропускается слева от "geometry::point", когда ни одна переменная не объявлена
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(454,3): warning C4091: typedef : пропускается слева от "geometry::vector_", когда ни одна переменная не объявлена
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(461,3): warning C4091: typedef : пропускается слева от "geometry::line", когда ни одна переменная не объявлена
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(469,3): warning C4091: typedef : пропускается слева от "geometry::plane", когда ни одна переменная не объявлена
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(515,21): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(515,23): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(515,25): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(515,27): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(516,23): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(516,25): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(516,27): warning C4838: Преобразование из "int" в "double" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,27): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,33): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,39): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,39): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,50): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,50): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,56): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,56): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,62): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(531,62): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,22): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,28): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,34): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,45): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,45): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,51): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,51): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,57): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(532,57): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,22): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,28): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,34): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,45): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,45): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,51): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,51): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,57): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(533,57): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(603,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(604,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(605,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(555,11): warning C4101: dx3: неиспользованная локальная переменная
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(555,16): warning C4101: dy: неиспользованная локальная переменная
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(555,6): warning C4101: dx1: неиспользованная локальная переменная
+C:\Users\annat\source\repos\RISUYU\RISUYU\main.cpp(560,8): warning C4101: cut_points: неиспользованная локальная переменная
+  RISUYU.vcxproj -> C:\Users\annat\source\repos\RISUYU\Debug\RISUYU.exe
